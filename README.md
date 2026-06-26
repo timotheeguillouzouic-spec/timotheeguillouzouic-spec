@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## about me
-Hi i'm just learning **Markdown** and *customizing* my Github account
+Hi i'm just learning **Markdown** and *customizing* my Github account.
 
-check this [https://www.markdownguide.org/cheat-sheet/] for more tips
+check this [https://www.markdownguide.org/cheat-sheet/] for more tips.
 
 <p align="center" >
 <b>This is bold inside HTML</b><br>
